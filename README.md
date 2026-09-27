@@ -1,6 +1,7 @@
 # Anime - Itachi Uchiha
 
 React single-page site built with Vite. The visual effects remain in JavaScript and render to canvas/WebGL; the image sequences are served from `public/frames`.
+Live Link: https://anime-view-itachi.vercel.app/
 
 ## Project layout
 
