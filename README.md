@@ -1,4 +1,4 @@
-# Uchiha Itachi
+# Anime - Itachi Uchiha
 
 React single-page site built with Vite. The visual effects remain in JavaScript and render to canvas/WebGL; the image sequences are served from `public/frames`.
 
